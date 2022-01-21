@@ -1,0 +1,12 @@
+.notfound-bg {
+  height: 100vh;
+  background-image: url("https://res.cloudinary.com/dp2no7dm6/image/upload/v1635298973/alkemi%20challenge/batman_dzmryv.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
